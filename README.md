@@ -1,4 +1,4 @@
-# HTD MC Series integration for Home Assistant
+# HTD Lync Series integration for Home Assistant
 
 This integration will add the HTD MCA66 into Home Assistant.
 
